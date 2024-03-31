@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=11.1V Pin=J1-1
+Removed Pin From Net: NetName=NetBAT1_2 Pin=J1-COM
+Removed Pin From Net: NetName=5V Pin=J2-1
+Added Component: Designator=1(DIO-214AC(SMA))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005519"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode S4 SOD123 ( 1N5819 SOD123)"; VariantName = "[No Variations]"
+Added Component: Designator=2(DIO-214AC(SMA))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005519"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode S4 SOD123 ( 1N5819 SOD123)"; VariantName = "[No Variations]"
+Added Component: Designator=JDC(DC-IN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBAT1_2 Pin=1-1
+Added Pin To Net: NetName=5V Pin=1-2
+Added Pin To Net: NetName=11.1V Pin=2-2
+Added Pin To Net: NetName=NetBAT1_2 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=JDC-2
+Added Pin To Net: NetName=GND Pin=JDC-3
+Change Net Name : Old Net Name=NetBAT1_2 New Net Name=Net1_1
+Added Pin To Net: NetName=Net2_1 Pin=2-1
+Added Pin To Net: NetName=Net2_1 Pin=J1-1
+Added Net: Name=Net2_1
+Added Pin To Net: NetName=NetJ1_COM Pin=J1-COM
+Added Pin To Net: NetName=NetJ1_COM Pin=JDC-1
+Added Net: Name=NetJ1_COM
+Added Member To Class: ClassName=STM32 Member=Component 1 S4
+Added Member To Class: ClassName=Power Member=Component 2 S4
+Added Member To Class: ClassName=Power Member=Component JDC Jac DC
+Added Room: Name=Power
+Added Room: Name=STM32

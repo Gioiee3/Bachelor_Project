@@ -1,0 +1,17 @@
+Added Component: Designator=C15(SMA-RA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/kataloge/eisos/index.php?language=en&pf=Filter_gerade"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Christin Zierenner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "May 2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "210111003"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C15-3
+Added Pin To Net: NetName=GND Pin=C15-4
+Added Pin To Net: NetName=GND Pin=C15-5
+Added Member To Class: ClassName=STM32 Member=Component C15 210111003
+Added Room: Name=Power
+Added Room: Name=STM32
