@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=Lora_DIO1 Pin=STM32-27
-Added Pin To Net: NetName=Lora_DIO1 Pin=U2-6
-Added Net: Name=Lora_DIO1
-Added Room: Name=Power
-Added Room: Name=STM32

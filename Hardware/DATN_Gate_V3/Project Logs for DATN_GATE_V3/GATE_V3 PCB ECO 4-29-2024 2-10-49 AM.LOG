@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C6 Old Footprint=CAP_0805 New Footprint=CAP_7343
+Change Component Footprint: Designator=C8 Old Footprint=CAP_0805 New Footprint=CAP_7343
+Change Component Comment : Designator=C6 Old Comment=10uF New Comment=22uF/10V
+Change Component Comment : Designator=C8 Old Comment=10uF New Comment=22uF/10V
+Change component parameters: Designator = "C8"; Footprint = "CAP_7343"; UniqueID = "\KFDNKVQY"
+Change component parameters. Clean all parameters for all variants
+Added Member To Class: ClassName=ESP32 Member=Component C7 100nF
+Added Member To Class: ClassName=ESP32 Member=Component C8 22uF/10V
+Added Room: Name=ESP32

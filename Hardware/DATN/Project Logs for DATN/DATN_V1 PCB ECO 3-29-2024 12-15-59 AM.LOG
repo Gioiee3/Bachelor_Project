@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=SMA Pin=C15-1
-Added Net: Name=SMA
-Added Member To Class: ClassName=STM32 Member=Component C15 210111003
-Added Room: Name=Power
-Added Room: Name=STM32

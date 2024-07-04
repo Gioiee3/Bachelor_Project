@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=Power1 Old Footprint=SOT223 New Footprint=SOT230P700X180-4N
+Added Room: Name=ESP32
