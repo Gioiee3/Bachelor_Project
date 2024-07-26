@@ -1,0 +1,2 @@
+Docs: https://meshtastic.org/docs/introduction/
+Github: https://github.com/meshtastic/firmware
