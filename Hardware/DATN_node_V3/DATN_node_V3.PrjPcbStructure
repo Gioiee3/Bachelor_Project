@@ -1,3 +1,0 @@
-Record=TopLevelDocument|FileName=Hard.SchDoc
-Record=SheetSymbol|SourceDocument=Hard.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=STM32_V3.SchDoc|SymbolType=Normal|RawFileName=STM32_V3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Hard.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=Power_V3.SchDoc|SymbolType=Normal|RawFileName=Power_V3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

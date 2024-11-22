@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=Net2_1 Pin=J1-1
-Removed Pin From Net: NetName=NetJ1_COM Pin=J1-COM
-Added Pin To Net: NetName=NetJ1_COM Pin=J1-1
-Added Pin To Net: NetName=Net2_1 Pin=J1-COM
-Change Net Name : Old Net Name=NetJ1_COM New Net Name=NetJ1_1
-Added Room: Name=ESP32
